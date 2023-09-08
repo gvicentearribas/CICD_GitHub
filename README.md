@@ -1,4 +1,4 @@
-HelloGermanV Servlet example with corresponding Dockerfile
+HelloGermanVA Servlet example with corresponding Dockerfile
 
 Use Maven Build first to create war file in Target folder.
 
